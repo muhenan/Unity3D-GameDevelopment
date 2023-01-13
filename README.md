@@ -1,2 +1,2 @@
 # Unity3D-GameDevelopment
-The Unity 3D Game Development course that I took during my junior year.
+The Unity 3D Game Development course that I took during my junior year at Sun Yat-sen University.
